@@ -44,8 +44,8 @@
 | 39 |Print from 0 to n |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-39.c) | 
 | 40 |Print the sum of first n natural numbers  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-40.c) | 
 | 41 |Print multiplication table of a number |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-41.c) | 
-| 42 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-42.c) | 
-| 43 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-43.c) | 
+| 42 | Keep taking input form user until user enters an odd number|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-42.c) | 
+| 43 | Keep taking numbers as input ,until user enter a number which is multiple of 7 |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-43.c) | 
 | 44 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-44.c) | 
 | 45 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-45.c) | 
 | 46 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-46.c) |

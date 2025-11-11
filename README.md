@@ -30,80 +30,79 @@
 | 25 |Average of 3 numbers| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-25.c) |
 | 26 |Check if given character is digit or not|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-26.c)  |
 | 27 |Find the smallest number | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-27.c) |
-| 28 |Adult or child| |
-| 29 |Adult , teenager or child | |
-| 30 | Odd or Even | |
-| 31 | Create a program using switch conditional operator to write day of a week| |
-| 32 | Create a program using switch conditional operator to write day of a week| |
-| 33 |Write a  program to  show type conversion | |
-| 34 |Create a program to Assignment operator| |
-| 35 |Print 1-100 using for loop| |
-| 36 |Print from 100-300 using while loop | |
-| 37 |Print from 300 - 1000 using do while loop| |
-| 38 |Print from 1000 -1 using for loop  | |
-| 39 | | |
-| 40 | | |
-| 41 | | |
-| 42 | | |
-| 43 | | |
-| 44 | | |
-| 45 | | |
-| 46 | | |
-| 47 | | |
-| 48 | | |
-| 49 | | |
-| 50 | | |
-| 51 | | |
-| 52 | | |
-| 53 | | |
-| 54 | | |
-| 55 | | |
-| 56 | | |
-| 57 | | |
-| 58 | | |
-| 59 | | |
-| 60 | | |
-| 61 | | |
-| 62 | | |
-| 63 | | |
-| 64 | | |
-| 65 | | |
-| 66 | | |
-| 67 | | |
-| 68 | | |
-| 69 | | |
-| 70 | | |
-| 71 | | |
-| 72 | | |
-| 73 | | |
-| 74 | | |
-| 75 | | |
-| 76 | | |
-| 77 | | |
-| 78 | | |
-| 79 | | |
-| 80 | | |
-| 81 | | |
-| 82 | | |
-| 83 | | |
-| 84 | | |
-| 85 | | |
-| 86 | | |
-| 87 | | |
-| 88 | | |
-| 89 | | |
-| 90 | | |
-| 91 | | |
-| 92 | | |
-| 93 | | |
-| 94 | | | 
-| 95 | | |
-| 96 | | |
-| 97 | | |
-| 98 | | |
-| 99 | | |
-| 100 | | |
-
+| 28 |Adult or child| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-28.c)|
+| 29 |Adult , teenager or child |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-29.c) |
+| 30 | Odd or Even | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-30.c)|
+| 31 | Create a program using switch conditional operator to write day of a week|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-31.c) |
+| 32 | Create a program using switch conditional operator to write day of a week|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-32.c) |
+| 33 |Write a  program to  show type conversion |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-33.c) |
+| 34 |Create a program to Assignment operator|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-34.c) |
+| 35 |Print 1-100 using for loop| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-35.c)|
+| 36 |Print from 100-300 using while loop | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-36.c)|
+| 37 |Print from 300 - 1000 using do while loop| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-37.c)|
+| 38 |Print from 1000 -1 using for loop  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-38.c) |
+| 39 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-39.c) | 
+| 40 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-40.c) | 
+| 41 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-41.c) | 
+| 42 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-42.c) | 
+| 43 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-43.c) | 
+| 44 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-44.c) | 
+| 45 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-45.c) | 
+| 46 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-46.c) |
+| 47 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-47.c) |
+| 48 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-48.c) |
+| 49 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-49.c) |
+| 50 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-50.c) |
+| 51 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-51.c) |
+| 52 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-52.c) |
+| 53 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-53.c) |
+| 54 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-54.c) |
+| 55 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-55.c) |
+| 56 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-56.c) |
+| 57 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-57.c) |
+| 58 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-58.c) |
+| 59 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-59.c) |
+| 60 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-60.c) |
+| 61 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-61.c) |
+| 62 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-62.c) |
+| 63 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-63.c) |
+| 64 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-64.c) |
+| 65 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-65.c) |
+| 66 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-66.c) |
+| 67 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-67.c) |
+| 68 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-68.c) |
+| 69 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-69.c) |
+| 70 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-70.c) |
+| 71 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-71.c) |
+| 72 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-72.c) |
+| 73 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-73.c) |
+| 74 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-74.c) |
+| 75 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-75.c) |
+| 76 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-76.c) |
+| 77 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-77.c) |
+| 78 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-78.c) |
+| 79 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-79.c) |
+| 80 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-80.c) |
+| 81 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-81.c) |
+| 82 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-82.c) |
+| 83 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-83.c) |
+| 84 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-84.c) |
+| 85 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-85.c) |
+| 86 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-86.c) |
+| 87 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-87.c) |
+| 88 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-88.c) |
+| 89 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-89.c) | 
+| 90 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-90.c) |
+| 91 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-91.c) |
+| 92 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-92.c) |
+| 93 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-93.c) |
+| 94 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-94.c) |
+| 95 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-95.c) |
+| 96 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-96.c) |
+| 97 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-97.c) |
+| 98 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-98.c) |
+| 99 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-99.c) |
+| 100 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c) |
 ## Syntax
 ```
 #include <stdio.h>

@@ -103,13 +103,18 @@
 | 98 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-98.c) |
 | 99 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-99.c) |
 | 100 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c) |
+
 ## Syntax
+
 ```
 #include <stdio.h>
 int main(){
-// statments
+
+    //Content here....
 }
+
 ```
+
 ## History
 <p>
     C is a  mid-level programming language developed by Dennis M. Ritchie at Bell Laboratories in 1972. C is the mother of all programming languages , It was mainly created for UNIX operating system.

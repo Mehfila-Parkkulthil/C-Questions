@@ -3,7 +3,7 @@
 ## Table of Contents
 
 |Q.no|Question|Link|
-|:--|:---|:---|
+|:--:|:---:|:---:|
 | 1 |Print Hello World | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-1.c)  |
 | 2 |Print Inverse Right Half Pyramid pattern|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-2.c)  |
 | 3 |Print  Right Half Pyramid pattern |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-3.c)  |  

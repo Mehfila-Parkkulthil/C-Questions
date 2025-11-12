@@ -103,11 +103,7 @@
 | 97 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-97.c) |
 | 98 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-98.c) |
 | 99 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-99.c) |
-<<<<<<< HEAD
 | 100 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c) |
-=======
-| 100 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c)|
->>>>>>> d4373ba6d6dd0be14524b3ec100f6bfbca2d94a3
 
 ## Syntax
 

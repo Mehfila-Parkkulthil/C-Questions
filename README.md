@@ -49,10 +49,10 @@
 | 43 |Keep taking numbers as input ,until user enter a number which is multiple of 7 |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-43.c) | 
 | 44 |Sum of all the multiples of 3 and 5|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-44.c) | 
 | 45 |Sum of all the multiples of 3 and 5,time constraints(1 ≤ T ≤ 10⁵,1 ≤ N ≤ 10⁹)|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-45.c) | 
-| 46 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-46.c) |
-| 47 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-47.c) |
-| 48 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-48.c) |
-| 49 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-49.c) |
+| 46 |Print all numbers from 1 -50 except 16, 23, 45 |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-46.c) |
+| 47 |Print all odd numbers from 5 to 50  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-47.c) |
+| 48 | Calculate the factorial number|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-48.c) |
+| 49 |Print the reverse of table of given by user , using do-while loop  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-49.c) |
 | 50 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-50.c) |
 | 51 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-51.c) |
 | 52 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-52.c) |

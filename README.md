@@ -53,13 +53,13 @@
 | 47 |Print all odd numbers from 5 to 50  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-47.c) |
 | 48 | Calculate the factorial number|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-48.c) |
 | 49 |Print the reverse of table of given by user , using do-while loop  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-49.c) |
-| 50 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-50.c) |
-| 51 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-51.c) |
-| 52 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-52.c) |
-| 53 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-53.c) |
-| 54 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-54.c) |
-| 55 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-55.c) |
-| 56 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-56.c) |
+| 50 |Calculate the sum all number between 5 and 50 (including 5 and 50) using while loop |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-50.c) |
+| 51 |Create a solid square using nested loops|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-51.c) |
+| 52 |Check if the given number is prime or not |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-52.c) |
+| 53 |Using library functions to calculate the square of a number |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-53.c) |
+| 54 |Pointers |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-54.c) |
+| 55 |Write a program to enter price of 3 items ans print their final cost with gst using Arrays |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-55.c) |
+| 56 |Pointer arithmetic  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-56.c) |
 | 57 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-57.c) |
 | 58 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-58.c) |
 | 59 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-59.c) |

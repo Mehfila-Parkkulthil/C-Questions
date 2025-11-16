@@ -8,7 +8,9 @@ int main(){
     scanf("%f", &a);
     printf("Enter your second number : \n");
     scanf("%f",&b);
-    printf("So the product of your numbers are : %f", a*b);
+    printf("So the product of your numbers are : %f\n", a*b);
+    printf("So the product of your numbers after rounding off are : %.2f", a*b);
+    //to roundoff to two digits write .2f
     return 0;
 
 }

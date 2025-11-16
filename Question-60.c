@@ -7,5 +7,5 @@ int main(){
     char first_name[20]="Aiera";
     char last_name[20]="Parkkulthil";
     int age =24;
-    printf("First name:%s , Last name : %s , age : %d  ", first_name, last_name,age);
+    printf("First name: %s \nLast name : %s \nAge : %d  ", first_name, last_name,age);
    return 0;}

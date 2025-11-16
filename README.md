@@ -63,7 +63,7 @@
 | 57 |Create a progam to input user name , and respond "Hi , Name ." |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-57.c) |
 | 58 |Declares two integer variables assign them values and display their values  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-58.c) |
 | 59 |Declares one variable of datatypes and prints their size using sizeof()operator |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-59.c) |
-| 60 |Define Variables for storing a users first name ; last name and age using appropriate naming comvention and then display them |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-60.c) |
+| 60 |Using appropriate naming comvention declare variable & print |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-60.c) |
 | 61 |Swap two numbers |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-61.c) |
 | 62 |Takes two numbers and shows result of all arithmetic operators |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-62.c) |
 | 63 |Give an integer value , convert it to a floating point and print both |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-63.c) |

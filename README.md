@@ -60,17 +60,17 @@
 | 54 |Pointers |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-54.c) |
 | 55 |Write a program to enter price of 3 items ans print their final cost with gst using Arrays |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-55.c) |
 | 56 |Pointer arithmetic  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-56.c) |
-| 57 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-57.c) |
-| 58 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-58.c) |
-| 59 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-59.c) |
-| 60 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-60.c) |
-| 61 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-61.c) |
-| 62 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-62.c) |
-| 63 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-63.c) |
-| 64 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-64.c) |
-| 65 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-65.c) |
-| 66 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-66.c) |
-| 67 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-67.c) |
+| 57 |Create a progam to input user name , and respond "Hi , Name ." |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-57.c) |
+| 58 |Create a program that declares two integer variables assign them values and display their values  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-58.c) |
+| 59 |Create a program that declares one variable of each fundamental datatypes (int , float , double and char )and prints their size using sizeof()operator |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-59.c) |
+| 60 |Define Variables for storing a users first name ; last name and age using appropriate naming comvention and then display them |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-60.c) |
+| 61 |Swap two numbers |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-61.c) |
+| 62 |Create a program that takes two numbers and shows result of all arithmetic operators |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-62.c) |
+| 63 |Give an integer value , convert it to a floating point and print both |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-63.c) |
+| 64 |Create a program to calculate the product of two floating points numbers |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-64.c) |
+| 65 |Area of a triangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-65.c) |
+| 66 |Simple interest |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-66.c) |
+| 67 |Sompound interest|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-67.c) |
 | 68 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-68.c) |
 | 69 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-69.c) |
 | 70 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-70.c) |

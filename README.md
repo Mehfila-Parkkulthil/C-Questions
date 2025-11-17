@@ -82,7 +82,7 @@
 | 76 |Guess the month |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-76.c) |
 | 77 |Simple Calculator using switch |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-77.c) |
 | 78 |Sum of all odd numbers form 1 to N |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-78.c) |
-| 79 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-79.c) |
+| 79 |Sum of digits of a number |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-79.c) |
 | 80 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-80.c) |
 | 81 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-81.c) |
 | 82 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-82.c) |

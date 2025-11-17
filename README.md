@@ -71,17 +71,17 @@
 | 65 |Area of a triangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-65.c) |
 | 66 |Simple interest |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-66.c) |
 | 67 |Compound interest|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-67.c) |
-| 68 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-68.c) |
-| 69 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-69.c) |
-| 70 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-70.c) |
-| 71 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-71.c) |
-| 72 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-72.c) |
-| 73 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-73.c) |
-| 74 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-74.c) |
-| 75 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-75.c) |
-| 76 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-76.c) |
-| 77 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-77.c) |
-| 78 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-78.c) |
+| 68 |Convert Fahrenheit to celsius |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-68.c) |
+| 69 |Positive , Negative or Zero |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-69.c) |
+| 70 |Elephant among the numbers|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-70.c) |
+| 71 |Leap year or not|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-71.c) |
+| 72 |Grade Calculator |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-72.c) |
+| 73 |Minimum of 2 numbers using ternary |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-73.c) |
+| 74 |Calculate Absolute value |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-74.c) |
+| 75 |High , Moderate , low grade calculator |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-75.c) |
+| 76 |Guess the month |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-76.c) |
+| 77 |Simple Calculator using switch |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-77.c) |
+| 78 |Sum of all odd numbers form 1 to N |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-78.c) |
 | 79 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-79.c) |
 | 80 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-80.c) |
 | 81 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-81.c) |

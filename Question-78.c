@@ -19,4 +19,5 @@ int main(){
     }
     printf("\n");
     printf("The sum of all odd numbers are : %d", sum);
+    return 0;
 }

@@ -14,7 +14,7 @@ int main(){
 
     printf("Now enter which arithmetic operation you want to conduct\n");
     printf("Enter (+ , - , * , / ) : ");
-    scanf(" %c ",&operator);
+    scanf("%c",&operator);
     int invalid =0;
     switch (operator){
     case '+': printf("Sum is %f ", first+second);

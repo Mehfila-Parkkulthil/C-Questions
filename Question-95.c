@@ -9,7 +9,7 @@ int sumOfArray(int arr[],int size);
 
 int main(){
   int myArray[]={1,2,4,5,3};
-  int size = sizeof(myArray) / sizeof(myArray[0]);
+  int size = sizeof(myArray) / sizeof(myArray[0]); //or int size = 5;
   //Pass array and size to the function
   int total = sumOfArray(myArray,size);
   printf("The sum of array elements are :%d",total);

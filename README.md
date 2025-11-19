@@ -104,6 +104,36 @@
 | 98 |Swap numbers using Pointers  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-98.c) |
 | 99 |Factorial using Recursion |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-99.c) |
 | 100 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c) |
+| 101 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-101.c) |
+| 102 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-102.c) |
+| 103 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-103.c) |
+| 104 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-104.c) |
+| 105 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-105.c) |
+| 106 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-106.c) |
+| 107 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-107.c) |
+| 108 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-108.c) |
+| 109 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-109.c) |
+| 110 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-110.c) |
+| 111 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-111.c) |
+| 112 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-112.c) |
+| 113 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-113.c) |
+| 114 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-114.c) |
+| 115 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-115.c) |
+| 116 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-116.c) |
+| 117 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-117.c) |
+| 118 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-118.c) |
+| 119 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-119.c) |
+| 120 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-120.c) |
+| 121 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-121.c) |
+| 122 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-122.c) |
+| 123 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-123.c) |
+| 124 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-124.c) |
+| 125 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-125.c) |
+| 126 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-126.c) |
+| 127 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-127.c) |
+| 128 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-128.c) |
+| 129 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-129.c) |
+| 130 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-130.c) |
 
 
 ## Syntax

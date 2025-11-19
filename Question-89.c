@@ -12,4 +12,6 @@ int main(){
     printf("Your first two numbers are %d and %d\n",first , second);
     printf("Your third and fourth numbers are %d and %d", third , fourth);
 
+    return 0;
+
 }

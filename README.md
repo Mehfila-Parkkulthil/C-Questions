@@ -33,8 +33,8 @@
 | 27 |Smallest number | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-27.c) |
 | 28 |Adult or child| [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-28.c)|
 | 29 |Senior , Adult , teenager or child |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-29.c) |
-| 30 | Odd or Even | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-30.c)|
-| 31 | Using switch conditional operator to write day of a week|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-31.c) |
+| 30 |Odd or Even | [Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-30.c)|
+| 31 |Using switch conditional operator to write day of a week|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-31.c) |
 | 32 | Using switch conditional operator to write day of a week|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-32.c) |
 | 33 |Type Conversion |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-33.c) |
 | 34 |Assignment operator|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-34.c) |
@@ -83,26 +83,26 @@
 | 77 |Simple Calculator using switch |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-77.c) |
 | 78 |Sum of all odd numbers form 1 to N |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-78.c) |
 | 79 |Sum of digits of a number |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-79.c) |
-| 80 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-80.c) |
-| 81 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-81.c) |
-| 82 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-82.c) |
-| 83 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-83.c) |
-| 84 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-84.c) |
-| 85 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-85.c) |
-| 86 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-86.c) |
-| 87 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-87.c) |
-| 88 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-88.c) |
-| 89 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-89.c) | 
-| 90 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-90.c) |
-| 91 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-91.c) |
-| 92 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-92.c) |
-| 93 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-93.c) |
-| 94 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-94.c) |
-| 95 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-95.c) |
-| 96 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-96.c) |
-| 97 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-97.c) |
-| 98 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-98.c) |
-| 99 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-99.c) |
+| 80 |Least Common Multiple |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-80.c) |
+| 81 |Greatest Common Divisor|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-81.c) |
+| 82 |Prime or not |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-82.c) |
+| 83 |Reverse the digits |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-83.c) |
+| 84 |Print Fibonacci Series without recursion |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-84.c) |
+| 85 |Check if a number is Armstrong or not |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-85.c) |
+| 86 |Palindrome or not |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-86.c) |
+| 87 |Print pattern |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-87.c) |
+| 88 |Print pattern |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-88.c) |
+| 89 |Take two input at a time |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-89.c) | 
+| 90 |Print all prime number to N |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-90.c) |
+| 91 |Given character digit or not |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-91.c) |
+| 92 |Array  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-92.c) |
+| 93 |Array Traversal |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-93.c) |
+| 94 |Array as function Arguements |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-94.c) |
+| 95 |Sum of elements in an array |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-95.c) |
+| 96 |Check Fibonacci series without using Recursion |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-96.c) |
+| 97 |Print Fibonacci series using Recursion |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-97.c) |
+| 98 |Swap numbers using Pointers  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-98.c) |
+| 99 |Factorial using Recursion |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-99.c) |
 | 100 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c) |
 
 ## Syntax

@@ -1,3 +1,6 @@
+/*Question 100
+Predict the output*/
+
 # include <stdio.h>
  int main() {
  int a = 10;

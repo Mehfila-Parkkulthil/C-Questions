@@ -6,7 +6,7 @@ int main(){
     printf("Lets print form 100 - 300 using while loop \n");
     int i=100;
     while(i<=300){
-        printf("%d \n" , i);
+        printf("%d  " , i);
         i++;
     }
     return 0;

@@ -104,7 +104,7 @@
 | 98 |Swap numbers using Pointers  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-98.c) |
 | 99 |Factorial using Recursion |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-99.c) |
 | 100 |Predict the output |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c) |
-| 101 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-101.c) |
+| 101 |Scope of i and j |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-101.c) |
 | 102 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-102.c) |
 | 103 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-103.c) |
 | 104 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-104.c) |

@@ -1,5 +1,5 @@
 /*Question 114
-Star cross */
+Star plus */
 
 #include <stdio.h>
 int main(){

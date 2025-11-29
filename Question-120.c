@@ -1,5 +1,5 @@
 /*Question 120
-Right Aligned Triangle
+Right Aligned Triangle 
 */
 #include <stdio.h>
 int main(){

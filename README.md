@@ -118,11 +118,11 @@
 | 112 |Number and alphabet triangle  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-112.c) |
 | 113 |Number square |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-113.c) |
 | 114 |Star plus |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-114.c) |
-| 115 |Star triangle Right aligned |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-115.c) |
-| 116 |Star Number triangle Right Aligned  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-116.c) |
-| 117 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-117.c) |
-| 118 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-118.c) |
-| 119 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-119.c) |
+| 115 |Star triangle leftt aligned |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-115.c) |
+| 116 |Star Number triangle left Aligned  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-116.c) |
+| 117 |Hollow Rectangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-117.c) |
+| 118 |Star triangle inverted leftt aligned |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-118.c) |
+| 119 |Star cross |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-119.c) |
 | 120 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-120.c) |
 | 121 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-121.c) |
 | 122 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-122.c) |

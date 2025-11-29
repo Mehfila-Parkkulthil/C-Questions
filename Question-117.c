@@ -1,5 +1,5 @@
 /*Question 117
-Star triangle */
+Hollow Rectangle */
 
 #include <stdio.h>
 int main(){

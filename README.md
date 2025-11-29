@@ -123,11 +123,11 @@
 | 117 |Hollow Rectangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-117.c) |
 | 118 |Star triangle inverted leftt aligned |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-118.c) |
 | 119 |Star cross |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-119.c) |
-| 120 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-120.c) |
-| 121 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-121.c) |
+| 120 |Right Aligned Triangle|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-120.c) |
+| 121 |Floyds Triangle  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-121.c) |
 | 122 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-122.c) |
 | 123 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-123.c) |
-| 124 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-124.c) |
+| 124 |0 and 1 Triangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-124.c) |
 | 125 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-125.c) |
 | 126 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-126.c) |
 | 127 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-127.c) |

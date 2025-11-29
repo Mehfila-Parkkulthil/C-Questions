@@ -105,21 +105,21 @@
 | 99 |Factorial using Recursion |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-99.c) |
 | 100 |Predict the output |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-100.c) |
 | 101 |Scope of i and j |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-101.c) |
-| 102 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-102.c) |
-| 103 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-103.c) |
-| 104 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-104.c) |
-| 105 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-105.c) |
-| 106 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-106.c) |
-| 107 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-107.c) |
-| 108 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-108.c) |
-| 109 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-109.c) |
-| 110 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-110.c) |
-| 111 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-111.c) |
-| 112 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-112.c) |
-| 113 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-113.c) |
-| 114 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-114.c) |
-| 115 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-115.c) |
-| 116 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-116.c) |
+| 102 |Print the AP -1,3,5,6,9...upto n terms |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-102.c) |
+| 103 |Print the AP -4,7,13,16,19...upto n terms |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-103.c) |
+| 104 |GP =1,2,4,8,16....upto n terms |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-104.c) |
+| 105 |AP -100,97,94 ... upto all terms are positive  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-105.c) |
+| 106 |AP 100 ,99,98,97 upto positive term |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-106.c) |
+| 107 |AP=100,96,92.... |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-107.c) |
+| 108 |GP -100,50,25.. |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-108.c) |
+| 109 |Prime or not |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-109.c) |
+| 110 |Print odd numbers |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-110.c) |
+| 111 |Alphabet Triangle Pattern |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-111.c) |
+| 112 |Number and alphabet triangle  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-112.c) |
+| 113 |Number square |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-113.c) |
+| 114 |Star plus |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-114.c) |
+| 115 |Star triangle Right aligned |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-115.c) |
+| 116 |Star Number triangle Right Aligned  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-116.c) |
 | 117 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-117.c) |
 | 118 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-118.c) |
 | 119 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-119.c) |

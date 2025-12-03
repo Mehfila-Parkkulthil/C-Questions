@@ -13,4 +13,6 @@ int main(){
     printf("\n");
     printf("So your output is %d", ((n>9)&&(n<100)) );
 
+      return 0;
+
 }

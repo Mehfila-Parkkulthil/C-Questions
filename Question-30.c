@@ -9,4 +9,6 @@ int main(){
     //Ternary condition
     // Condition? ifTrue : ifFalse;
     (number%2==0)? printf("Even\n"): printf("Odd\n");
+
+      return 0;
 }

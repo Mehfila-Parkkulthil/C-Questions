@@ -15,4 +15,6 @@ int main(){
     printf("Area : %f \n", area);
     printf("Perimeter : %f \n", perimeter);
     printf("_____________________________________ \n");
+
+      return 0;
 }

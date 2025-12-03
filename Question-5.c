@@ -7,4 +7,6 @@ int main(){
     printf("Pls enter your age: \n");
     scanf("%d", &age);
     printf("So your  %d years old . ", age);
+
+      return 0;
 }

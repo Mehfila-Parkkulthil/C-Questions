@@ -14,5 +14,5 @@ int main(){
     printf("a/5 = %d \n",a);
     a%=5;
     printf("a %c 5 = %d \n",'%', a);
-    return;
+     return 0;
 }

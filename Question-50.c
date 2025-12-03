@@ -14,4 +14,5 @@ int main(){
     }
     printf("Thank you , Sum is %d \n",sum);
 
+      return 0;
 }

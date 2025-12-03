@@ -23,4 +23,6 @@ int main(){
     }else{
         printf("Sorry NOT prime");
     }
+
+    return 0;
 }

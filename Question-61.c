@@ -12,4 +12,6 @@ int main(){
     n=m;
     m=t;
     printf("So after switching your first number is %d and second number is %d",n,m);
+
+      return 0;
 }

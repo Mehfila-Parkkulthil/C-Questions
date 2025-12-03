@@ -14,4 +14,6 @@ int main(){
     printf("The size of double is %d bytes\n", sizeof(dbl));
  
     //actually it shows warning instead of %d use %lu to avoid warning ie, unsigned int.
+
+      return 0;
 }

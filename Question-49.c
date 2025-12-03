@@ -12,4 +12,6 @@ int main(){
         printf("%d \n",n*i);
         i--;
     }while(i>=1);
+
+      return 0;
 }

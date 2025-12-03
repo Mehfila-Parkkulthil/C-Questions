@@ -27,6 +27,6 @@ printf("\n");
     default :printf("Not  a valid day\n");
 
   }
-
+  return 0;
 
 }

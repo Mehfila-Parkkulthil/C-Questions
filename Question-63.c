@@ -12,4 +12,6 @@ int main(){
      //explicit 
     printf("After explicit casting\n");
     printf("Float value is %f ", (float)n);//explicit
+
+      return 0;
 }

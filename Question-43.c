@@ -17,4 +17,6 @@ int main(){
 
     printf("\n");
     printf("Sorry you wrote a number which is a multiple of 7");
+
+      return 0;
 }

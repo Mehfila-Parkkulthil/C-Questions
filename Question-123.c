@@ -1,2 +1,2 @@
 /*Question 123
-Right Aligned Inverse */
+Right Aligned Inverse Star Triangle*/

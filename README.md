@@ -121,12 +121,12 @@
 | 115 |Star triangle leftt aligned |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-115.c) |
 | 116 |Star Number triangle left Aligned  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-116.c) |
 | 117 |Hollow Rectangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-117.c) |
-| 118 |Star triangle inverted leftt aligned |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-118.c) |
+| 118 |Star triangle inverted left aligned |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-118.c) |
 | 119 |Star cross |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-119.c) |
 | 120 |Right Aligned Triangle|[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-120.c) |
 | 121 |Floyds Triangle  |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-121.c) |
 | 122 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-122.c) |
-| 123 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-123.c) |
+| 123 |Right Aligned Inverse Star Triangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-123.c) |
 | 124 |0 and 1 Triangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-124.c) |
 | 125 |Star Rhombus |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-125.c) |
 | 126 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-126.c) |

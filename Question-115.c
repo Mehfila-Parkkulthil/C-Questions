@@ -1,5 +1,5 @@
 /*Question 115
-Star triangle Right aligned */
+Star triangle Left aligned */
 
 #include <stdio.h>
 int main(){

@@ -129,12 +129,7 @@
 | 123 |Right Aligned Inverse Star Triangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-123.c) |
 | 124 |0 and 1 Triangle |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-124.c) |
 | 125 |Star Rhombus |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-125.c) |
-| 126 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-126.c) |
-| 127 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-127.c) |
-| 128 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-128.c) |
-| 129 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-129.c) |
-| 130 | |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-130.c) |
-
+| 126 |Hollow Rhombus |[Click Here](https://github.com/Mehfila-Parkkulthil/C-/blob/main/Question-126.c) |
 
 ## Syntax
 
